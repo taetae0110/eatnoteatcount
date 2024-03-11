@@ -8,3 +8,4 @@
 1.5~1.9업데이트:최적화및버그해결    
 2.0업데이트:ip제한 삭제    
 본프로그램은 tikfinty와연동하여 사용가능합니다.  
+tikfinty->setup->import Settings from file클릭후 자동먹먹.tfc를 넣어주세요
